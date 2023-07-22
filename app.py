@@ -71,7 +71,7 @@ app.layout=html.Div([
                     figure={
                         "data":[
                             go.Scatter(
-                                x=train.index,
+                                x=val.index,
                                 y=val["Close"],
                                 mode='markers'
                             )
@@ -90,7 +90,7 @@ app.layout=html.Div([
                     figure={
                         "data":[
                             go.Scatter(
-                                x=train.index,
+                                x=val.index,
                                 y=val["Predictions"],
                                 mode='markers'
                             )
