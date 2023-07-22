@@ -52,7 +52,8 @@ Welcome to the Stock Price Prediction Model! This helps to develop an accurate a
 
 An analytical web application is built using Plotly Dash to visualize the predicted stock price and analyze the closing and opening stock prices and total market volume of different companies. The web application includes features such as 1-month and 6-month range selectors and range sliders for interactive exploration of stock price data.
 
-![spp1](https://github.com/saisanthoshbussa/StockPrice-Prediction/assets/118352633/2c701440-e5ca-4006-9ed1-3019ef1416e3)
+![newspp](https://github.com/saisanthoshbussa/StockPrice-Prediction/assets/118352633/6bd3f78b-a3fa-4e25-9bcc-19a9246af1a3)
+
 
 ![spp2](https://github.com/saisanthoshbussa/StockPrice-Prediction/assets/118352633/b4b29114-3a8a-4d53-b730-acc11f501676)
 
